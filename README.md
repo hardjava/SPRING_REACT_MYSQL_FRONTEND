@@ -6,6 +6,9 @@ SPRING BOOT, REACT, MySQL을 활용한 게시판 프로젝트입니다 (clone co
 ## 🛠 기술 스택
 - **Frontend**: React
 
+## 🛠 Skills
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+
 ## 🚀 실행 방법
 ```bash
 # 프로젝트 클론
